@@ -1,5 +1,5 @@
 # Snake-apple-quest
- ## Game: Snake: Apple Quest  Genre: Action-Adventure-2D-Story- mode
+ ## Game: Snake: Apple Quest  Genre: Action-Adventure-2D-Story-mode
 Team: Gen_61
 
 TA: Zeina Rayan
