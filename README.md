@@ -46,18 +46,18 @@
     The game features three distinct levels, each presenting unique challenges:
     - Level One: Engages players in combat with enemies using different weapons and tactics.
     - Level Two: Introduces a timer and aerial enemy spawns, emphasizing evasion and quick thinking.
-    - Level Three: Culminates in a boss fight against a queen that uses projectiles, leading to a rewarding
-      conclusion.
+    - Level Three: Culminates in a boss fight against a queen that uses projectiles, leading to a 
+      rewarding conclusion.
 
 #### Main and Pause Menu
-    The game includes a user-friendly main menu with options for starting a new game (including player name
-    input), viewing the scoreboard, accessing a tutorial, and exiting. The pause menu allows players to
-    pause/resume gameplay and adjust sound settings, enhancing usability.
+    The game includes a user-friendly main menu with options for starting a new game (including player 
+    name input), viewing the scoreboard, accessing a tutorial, and exiting. The pause menu allows 
+    players to pause/resume gameplay and adjust sound settings, enhancing usability.
     
 #### Target Audience and Visual Style
-    Designed to be challenging yet accessible, the game aims to engage players of all ages. Its visual appeal
-    combines pixel art with modern design elements, creating a colorful and detailed aesthetic that attracts
-    players.
+    Designed to be challenging yet accessible, the game aims to engage players of all ages. Its visual
+    appeal combines pixel art with modern design elements, creating a colorful and detailed aesthetic
+    that attracts players.
 
 #### Engaging Soundtrack
     A catchy soundtrack accompanies the gameplay, designed to keep players engaged and enhance the overall
