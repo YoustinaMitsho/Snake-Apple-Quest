@@ -3,7 +3,7 @@
 <div align="center">    
  
 # Snake: Apple Quest
-![](intro_image.png)
+![](poster.png)
 
 
 ![Made with](https://img.shields.io/badge/made_with-C++-blue)
