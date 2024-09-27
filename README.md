@@ -23,23 +23,24 @@
 <h3 id="-about">🚀 About</h3>
 
 #### Story-Driven Gameplay
-    The game introduces a narrative in the intro that sets the stage for the player’s quest. This storytelling
-    element motivates players and provides context for their actions, creating a more immersive experience than
-    the classic snake game.
+    The game introduces a narrative in the intro that sets the stage for the player’s quest. 
+    This storytelling element motivates players and provides context for their actions, 
+    creating a more immersive experience than the classic snake game.
 
 #### Free Movement Mechanics
-    Unlike traditional snake games that confine movement to a linear path, players can navigate freely throughou
-    the environment. This opens up new strategies for exploration and interaction, enhancing gameplay dynamics.
+    Unlike traditional snake games that confine movement to a linear path, players can navigate 
+    freely throughou the environment. This opens up new strategies for exploration and 
+    interaction, enhancing gameplay dynamics.
 
 #### Combat System
-    Players encounter enemies that they must defeat to progress. Each enemy has unique strengths and attack
-    styles (e.g., melee and ranged), requiring players to adapt their tactics, which adds a layer of challenge
-    and excitement.
+    Players encounter enemies that they must defeat to progress. Each enemy has unique 
+    strengths and attack styles (e.g., melee and ranged), requiring players to adapt their 
+    tactics, which adds a layer of challenge and excitement.
 
 #### Power-Ups
-    Throughout the game, players can collect various power-ups that enhance their abilities, such as restoring
-    health, boosting speed, or increasing jump height. This mechanic adds depth to the gameplay, allowing players
-    to customize their approach to challenges.
+    Throughout the game, players can collect various power-ups that enhance their abilities,
+    such as restoring health, boosting speed, or increasing jump height. This mechanic adds 
+    depth to the gameplay, allowing players to customize their approach to challenges.
 
 #### Variety of Levels
     The game features three distinct levels, each presenting unique challenges:
