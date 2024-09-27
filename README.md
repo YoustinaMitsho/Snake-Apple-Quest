@@ -1,27 +1,82 @@
-# Snake-apple-quest
- ## Game: Snake: Apple Quest  Genre: Action-Adventure-2D-Story-mode
-Team: Gen_61
 
-TA: Zeina Rayan
 
-Team members:
-David Magdy
-Youstina Mitsho
-Mario Maged
-Marvel Medhat
-Christine Medhat
-Micheal Nabil
-Kerolos Magdy
+<div align="center">    
+ 
+# Snake: Apple Quest
+![](intro_image.png)
 
-Game description:
-The game would play similar to the classic snake game, but with a few key differences.First, it's based on a story narrated in the intro and a goal the player seeks during the game. Second, the snake would be able to move around the environment freely, rather than being confined to a single path. Third, the snake would have to fight enemies in order to progress. Fourth, the snake would be able to collect power-ups that would give him special abilities, such as the ability to gain full health, increase speed and increase jump hight.
 
-The game would have a variety of levels (three levels), each with its own unique challenges. In level one, the player has to fight enemies of different strength and with different tools as one enemy would fight with a punch another with pistol, but be aware of the bulltes as one of the enemies can point the pistol wherever the player goes. In level two, there will be a timer and enemies will spawn from the sky to try and kill the player. the player's task is to avoid the enemies. In level three, the player would encounter the queen in a fight, be careful, the queen throws seeds as projectiles to try and kill the player if the player beats the queen he will be rewarded by the Golden apple which he can take back to his family.
+![Made with](https://img.shields.io/badge/made_with-C++-blue)
+![used](http://img.shields.io/badge/used-SFML-green)
 
-The game is accompanied with main menu that shows new game (which has player name), score board, how to play and exit, as well as a pause menu which can pause and resume the game and can also change the sound volume of the background music.
+ 
 
-The game would be a challenging and rewarding experience for players of all ages. It would combine the classic gameplay of the snake game with new elements of action and adventure. The game would be visually appealing, with a colorful and detailed mixture of pixel art and modern art styles. The game would also have a catchy soundtrack that would keep players engaged.
 
-Note: Video contain actual game footage.
 
-https://drive.google.com/file/d/1Gb6n7ZiivtMzdbVUMuIdZO98rMCXE-CG/view?usp=drive_link
+</div>
+
+## 📃Table of Content
+- [About](#-about)
+- [Game Footage](#-game-footage)
+- [Installation](#-installation)
+ 
+<h3 id="-about">🚀 About</h3>
+
+#### Story-Driven Gameplay
+    The game introduces a narrative in the intro that sets the stage for the player’s quest. This storytelling
+    element motivates players and provides context for their actions, creating a more immersive experience than
+    the classic snake game.
+
+#### Free Movement Mechanics
+    Unlike traditional snake games that confine movement to a linear path, players can navigate freely throughou
+    the environment. This opens up new strategies for exploration and interaction, enhancing gameplay dynamics.
+
+#### Combat System
+    Players encounter enemies that they must defeat to progress. Each enemy has unique strengths and attack
+    styles (e.g., melee and ranged), requiring players to adapt their tactics, which adds a layer of challenge
+    and excitement.
+
+#### Power-Ups
+    Throughout the game, players can collect various power-ups that enhance their abilities, such as restoring
+    health, boosting speed, or increasing jump height. This mechanic adds depth to the gameplay, allowing players
+    to customize their approach to challenges.
+
+#### Variety of Levels
+    The game features three distinct levels, each presenting unique challenges:
+    - Level One: Engages players in combat with enemies using different weapons and tactics.
+    - Level Two: Introduces a timer and aerial enemy spawns, emphasizing evasion and quick thinking.
+    - Level Three: Culminates in a boss fight against a queen that uses projectiles, leading to a rewarding
+      conclusion.
+
+#### Main and Pause Menu
+    The game includes a user-friendly main menu with options for starting a new game (including player name
+    input), viewing the scoreboard, accessing a tutorial, and exiting. The pause menu allows players to
+    pause/resume gameplay and adjust sound settings, enhancing usability.
+    
+#### Target Audience and Visual Style
+    Designed to be challenging yet accessible, the game aims to engage players of all ages. Its visual appeal
+    combines pixel art with modern design elements, creating a colorful and detailed aesthetic that attracts
+    players.
+
+#### Engaging Soundtrack
+    A catchy soundtrack accompanies the gameplay, designed to keep players engaged and enhance the overall
+    experience. Music plays a crucial role in setting the game’s tone and maintaining player motivation.
+
+   
+ 
+
+--------------    
+<h3 id="-game-footage">🎥 Game Footage</h3>
+
+<iframe width="1920" height="1080" src="https://drive.google.com/file/d/1Gb6n7ZiivtMzdbVUMuIdZO98rMCXE-CG/view?usp=drive_link" frameborder="0" allowfullscreen></iframe>
+
+
+ -------------     
+<h3 id="-installation">🕹 Installation</h3>
+
+Here is the [game link](https://drive.google.com/file/d/1iSXgjAHjA7KTwXhn_gxQNWuSWQhOtwo7/view?usp=sharing) in a zip file, download, extract, run and enjoy! 
+
+
+
+  
+
