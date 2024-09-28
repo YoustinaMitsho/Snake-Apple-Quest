@@ -69,7 +69,7 @@
 --------------    
 <h3 id="-game-footage">🎥 Game Footage</h3>
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/BLO_QmsuKA4)
+[![Watch the video](https://img.youtube.com/vi/BLO_QmsuKA4/maxresdefault.jpg)](https://www.youtube.com/watch?v=BLO_QmsuKA4)
 
  -------------     
 <h3 id="-installation">🕹 Installation</h3>
