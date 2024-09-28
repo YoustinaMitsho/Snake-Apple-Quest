@@ -69,8 +69,7 @@
 --------------    
 <h3 id="-game-footage">🎥 Game Footage</h3>
 
-<iframe width="1920" height="1080" src="https://drive.google.com/file/d/1Gb6n7ZiivtMzdbVUMuIdZO98rMCXE-CG/view?usp=drive_link" frameborder="0" allowfullscreen></iframe>
-
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/BLO_QmsuKA4)
 
  -------------     
 <h3 id="-installation">🕹 Installation</h3>
